@@ -1,4 +1,5 @@
-<img src="assets/2022_SECON_BDA_Conference_Certificate.jpg" width="512">
+<img src="assets/2022_SECON_BDA_Conference_Certificate.jpg" width="485"> <img src="https://github.com/bryanbocao/bryanbocao/assets/14010288/8ac5f2d5-6015-467c-a7c4-07a63d0428d6" width="485">
+
 
 <!--
 **bryanbocao/bryanbocao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
