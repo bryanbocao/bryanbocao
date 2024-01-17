@@ -1,4 +1,4 @@
-<img src="assets/2022_SECON_BDA_Conference_Certificate.jpg" width="380"> <img src="https://github.com/bryanbocao/bryanbocao/assets/14010288/8ac5f2d5-6015-467c-a7c4-07a63d0428d6" width="380">
+<img src="assets/2022_SECON_BDA_Conference_Certificate.jpg" width="420"> <img src="https://github.com/bryanbocao/bryanbocao/assets/14010288/8ac5f2d5-6015-467c-a7c4-07a63d0428d6" width="420">
 
 
 <!--
