@@ -1,4 +1,4 @@
-<img src="assets/2022_SECON_BDA_Conference_Certificate.jpg" width="280"> <img src="assets/OutstandingStudentAward_2023.jpg" width="280"> <img src="assets/OutstandingInnovationAward_2024.jpg" width="280">
+<img src="assets/2022_SECON_BDA_Conference_Certificate.jpg" width="278"> <img src="assets/OutstandingStudentAward_2023.jpg" width="278"> <img src="assets/OutstandingInnovationAward_2024.jpg" width="278">
 
 
 <!--
